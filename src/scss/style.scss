@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+@import "../partials/header";
+@import "../partials/footer";
+@import "../partials/mixins";
+@import "../Base/typography";
+@import "../Base/base";
+@import "../Base/ulits";
+@import "../partials/main";
